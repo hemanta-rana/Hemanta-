@@ -1,5 +1,4 @@
 # Hemanta-
-noting 
 <h1 align="center">Hi 👋, I'm Hemanta Rana</h1>
 <h3 align="center">Freshers in software development, eager to learn and contribute . passionate about coding and exploring new technologies. thrilled to join tech community.</h3>
 
