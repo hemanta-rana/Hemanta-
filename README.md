@@ -1,11 +1,12 @@
 # Hemanta-
 <h1 align="center">Hi 👋, I'm Hemanta Rana</h1>
-<h3 align="center">Freshers in software development, eager to learn and contribute . passionate about coding and exploring new technologies. thrilled to join tech community.</h3>
+<h3 align="center">Freshers in software development, eager to learn and contribute. . passionate about coding and exploring new technologies. thrilled to join tech community.</h3>
 
 - 🌱 I’m currently learning **Java , python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/admish_104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="admish_104" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
